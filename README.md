@@ -21,4 +21,6 @@ Output will be in the format of word + partsOfSpeech + meaning
 # Assignment 3: count_substring.py
 To execute - python count_substring.py
 
+The input strings are hardcoded in the program. 
+
 Prints the Longest common substring
